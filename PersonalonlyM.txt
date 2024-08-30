@@ -1,9 +1,18 @@
 {
-"name":"Personalอ่านว่าอะไร",
+"name":"Personalอ่านว่าอะไรน่ะ",
 "author":"ถ้าเอาไปแจกดับทันที..ทำไว้ดูในบ้านเท่านั้น",
 "image":"https://upload.wikimedia.org/wikipedia/commons/1/14/Personal-argentina-logo-3.png",
-"url": "",
+"url": "https://raw.githubusercontent.com/Notvshow/Personalonly/main/PersonalonlyM.txt",
 "groups": [
+
+{
+"name": "Personal เห็นเอาไปแจกดับลบทันที",
+"author":"ไม่ได้ทำเองอย่าเอาไปแจก",
+"image": "https://www.tosh.or.th/media/k2/items/cache/9ec5addc67447038d196a2fc30522c2d_XL.jpg",
+"url": "",
+"import": true
+}, 
+
 
 {
 "name": "กด refresh 1 ครั้ง เพื่ออัพเดตช่อง",
@@ -14,13 +23,6 @@
 },
 
 {
-"name": "Personal เอาไปแจกดับทันที",
-"image": "https://www.tosh.or.th/media/k2/items/cache/9ec5addc67447038d196a2fc30522c2d_XL.jpg",
-"url": "",
-"import": true
-}, 
-
-{
 "name": "Digitals Playlist",
 "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Personal-argentina-logo-3.png",
 "url": "https://raw.githubusercontent.com/Notvshow/Personalonly/main/Di1",
@@ -28,8 +30,8 @@
 }, 
 
 {
-"name": "TVB Thailand ",
-"info": "BYMEE",
+"name": "TVB Thailand",
+"info": " YouTube",
 "image": "https://yt3.googleusercontent.com/L0S_yosHuEAJstHzir1XAxqFkf6cvK2Kyh8HefrlFNLKvZT-Wi4z484CnR7u0x-5M2ougjlutJ8=s160-c-k-c0x00ffffff-no-rj",
 "url": "https://raw.githubusercontent.com/Notvshow/Personalonly/main/YTVB",
 "import": true
